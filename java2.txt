@@ -1,0 +1,5 @@
+function printer() {return("room 1")}printer()
+printer()
+function changer(room1,room2) {return("room 2")}
+printer?(room1,room2)
+price=+1500*0.15+2000*0.15+2500*0.15
