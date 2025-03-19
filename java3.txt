@@ -1,0 +1,15 @@
+
+
+let room=[]
+let name = prompt("Please enter name")
+let room_num =prompt("Please enter room number.")
+let checkin_date = prompt("Please add the date of check-in.")
+let checkout_date = prompt("Please enter date of check-out.")
+
+
+let checkAvialability=[]
+let avialable_rooms=("room1,room19,room43")
+let avialble_time=("12:00am,3:30pm:5:45am")
+let avialable_beds_per_room=("room1=2 beds,room19=1 bed,room43=1 bed")
+
+
